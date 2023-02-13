@@ -3,6 +3,8 @@ class aa1
     public static void main(String ar[])
      {
     int a=10;
-    System.out.print(a);    
+    int b=20;
+    System.out.print(a);
+    System.out.print(b);    
     }
 }
